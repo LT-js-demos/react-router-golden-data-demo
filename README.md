@@ -1,5 +1,5 @@
-react-router-show-a-component-demo
-==================================
+react-router-practice-LT
+========================
 
 ```
 1.bower install
